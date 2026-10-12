@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8.7",
+  "package": "apothicprogression.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["InfuserMixin", "LegacyChargeMixin", "AnvilMixin", "TableMixin"],
+  "client": ["client.InfuserButtonMixin", "client.InfuserLinesMixin", "client.TableScreenMixin", "client.AnvilScreenMixin"],
+  "injectors": {"defaultRequire": 1},
+  "mixinextras": {"minVersion": "0.5.3"}
+}

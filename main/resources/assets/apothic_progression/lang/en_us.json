@@ -1,0 +1,9 @@
+{
+  "apothic_progression.xp_cost": "Cost: %s XP points",
+  "apothic_progression.bar_whole": "level %s",
+  "apothic_progression.bar_partial": "level %s + %s%% of the bar",
+  "apothic_progression.from_zero": "Equivalent from zero: %s",
+  "apothic_progression.after_payment": "Your bar: %s → %s",
+  "apothic_progression.missing": "Missing %s XP points to pay",
+  "apothic_progression.creative": "Creative: no XP deducted"
+}
